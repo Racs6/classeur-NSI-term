@@ -21,7 +21,6 @@
 ### 1. Conducteur de train 
 - Objectif : réaliser au moins 2 ans d’études après le Bac
 - Formations envisageables :
-  - BTS électrotechnique
   - BTS SIO
 - Après Bac+2 ou tentative après le bac : candidature à la SNCF (car à 18 ans il y a forte chance qui ne recutent pas) Le CV est enrichie avec un mooc concue par la SNCF pour découvrir le monde de la conduite.
 - Formation interne rémunérée (9 à 12 mois) : conduite, sécurité ferroviaire, connaissance du matériel roulant.
