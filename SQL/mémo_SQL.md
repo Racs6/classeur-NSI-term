@@ -92,10 +92,6 @@ Permet d’obtenir la date du jour.
 
 **DATE('now', '+1 day')** :  
 Permet de modifier une date (jours, mois, années).
-
-**STRFTIME** :  
-Permet de formater une date selon un format personnalisé.
-
 ---
 
 ## Structures conditionnelles
