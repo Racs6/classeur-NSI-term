@@ -1,93 +1,126 @@
 # Mémo SQL — Commandes essentielles
 
-## Création et insertion
+---
 
-CREATE TABLE : permet de créer une table en définissant ses colonnes et leurs types.
+## Création et insertion de données
 
-INSERT INTO : permet d’ajouter une ou plusieurs lignes de données dans une table.
+**CREATE TABLE** :  
+Permet de créer une table en définissant ses colonnes et leurs types.
+
+**INSERT INTO** :  
+Permet d’ajouter une ou plusieurs lignes de données dans une table.
 
 ---
 
-## Requêtes de base
+## Requêtes SQL de base
 
-SELECT : permet d’afficher des données provenant d’une table.
+**SELECT** :  
+Permet d’afficher des données provenant d’une table.
 
-* : permet de sélectionner toutes les colonnes d’une table.
+**\*** :  
+Permet de sélectionner toutes les colonnes d’une table.
 
-WHERE : permet de filtrer les lignes selon une condition.
+**WHERE** :  
+Permet de filtrer les lignes selon une condition.
 
-AND : permet de combiner plusieurs conditions dans un WHERE.
+**AND** :  
+Permet de combiner plusieurs conditions dans une clause `WHERE`.
 
-ORDER BY : permet de trier les résultats (ASC croissant, DESC décroissant).
+**ORDER BY** :  
+Permet de trier les résultats (`ASC` croissant, `DESC` décroissant).
 
-LIMIT : permet de limiter le nombre de lignes affichées.
+**LIMIT** :  
+Permet de limiter le nombre de lignes affichées.
 
 ---
 
-## Jointures
+## Jointures entre tables
 
-INNER JOIN : permet de relier deux tables ayant une colonne en commun et d’afficher les lignes correspondantes.
+**INNER JOIN** :  
+Permet de relier deux tables ayant une colonne en commun.
 
-ON : définit la condition de liaison entre deux tables lors d’une jointure.
+**ON** :  
+Définit la condition de liaison entre deux tables lors d’une jointure.
 
-USING : simplifie une jointure lorsque la colonne a le même nom dans les deux tables.
+**USING** :  
+Simplifie une jointure lorsque la colonne porte le même nom dans les deux tables.
 
 ---
 
 ## Calculs et renommage
 
-+, -, *, /, : opérateurs permettant d’effectuer des calculs arithmétiques.
+**+ − * /** :  
+Opérateurs permettant d’effectuer des calculs arithmétiques.
 
-AS : permet de renommer une colonne ou un résultat.
+**AS** :  
+Permet de renommer une colonne ou un résultat.
 
-ROUND : permet d’arrondir un nombre.
+**ROUND** :  
+Permet d’arrondir un nombre.
 
 ---
 
 ## Chaînes de caractères
 
-|| : permet de concaténer plusieurs chaînes de caractères.
+**||** :  
+Permet de concaténer plusieurs chaînes de caractères.
 
-SUBSTR : permet d’extraire une partie d’une chaîne de caractères.
+**SUBSTR** :  
+Permet d’extraire une partie d’une chaîne de caractères.
 
-UPPER : permet de mettre une chaîne en majuscules.
+**UPPER** :  
+Permet de mettre une chaîne en majuscules.
 
-LOWER : permet de mettre une chaîne en minuscules.
+**LOWER** :  
+Permet de mettre une chaîne en minuscules.
 
-LENGTH : permet de compter le nombre de caractères d’une chaîne.
+**LENGTH** :  
+Permet de compter le nombre de caractères d’une chaîne.
 
-REPLACE : permet de remplacer une sous-chaîne par une autre.
+**REPLACE** :  
+Permet de remplacer une sous-chaîne par une autre.
 
-INSTR : permet de trouver la position d’une sous-chaîne dans une chaîne.
+**INSTR** :  
+Permet de trouver la position d’une sous-chaîne dans une chaîne.
 
 ---
 
 ## Dates et heures
 
-DATE('now') : permet d’obtenir la date du jour.
+**DATE('now')** :  
+Permet d’obtenir la date du jour.
 
-DATE('now', '+1 day') : permet de modifier une date (jours, mois, années).
+**DATE('now', '+1 day')** :  
+Permet de modifier une date (jours, mois, années).
 
-STRFTIME : permet de formater une date selon un format personnalisé.
+**STRFTIME** :  
+Permet de formater une date selon un format personnalisé.
 
 ---
 
-## Conditions
+## Structures conditionnelles
 
-CASE : permet d’appliquer des conditions et de retourner un résultat selon les cas.
+**CASE** :  
+Permet d’appliquer un traitement conditionnel dans une requête.
 
-WHEN : définit une condition à tester dans un CASE.
+**WHEN** :  
+Définit une condition à tester.
 
-THEN : indique le résultat si la condition est vraie.
+**THEN** :  
+Indique le résultat si la condition est vraie.
 
-ELSE : indique le résultat par défaut.
+**ELSE** :  
+Indique le résultat par défaut.
 
-END : termine la structure conditionnelle CASE.
+**END** :  
+Termine la structure conditionnelle.
 
 ---
 
 ## Modification des données
 
-UPDATE : permet de modifier des valeurs existantes dans une table.
+**UPDATE** :  
+Permet de modifier des valeurs existantes dans une table.
 
-DELETE : permet de supprimer des lignes dans une table selon une condition.
+**DELETE** :  
+Permet de supprimer des lignes dans une table selon une condition.
