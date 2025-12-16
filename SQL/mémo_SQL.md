@@ -36,7 +36,7 @@ USING : simplifie une jointure lorsque la colonne a le même nom dans les deux t
 
 ## Calculs et renommage
 
-+ - * / : opérateurs permettant d’effectuer des calculs arithmétiques.
++, -, *, /, : opérateurs permettant d’effectuer des calculs arithmétiques.
 
 AS : permet de renommer une colonne ou un résultat.
 
