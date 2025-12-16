@@ -90,7 +90,8 @@ Permet de trouver la position d’une sous-chaîne dans une chaîne.
 **DATE('now')** :  
 Permet d’obtenir la date du jour.
 
-**DATE('now', '+1 day')** :  
+**DATE('now', '+1 day')** :
+  
 Permet de modifier une date (jours, mois, années).
 ---
 
