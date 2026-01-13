@@ -12,18 +12,23 @@
 ## Projets professionnels envisagés
 - Conducteur de train dans le privée ou à la SNCF
     ou 
-- Autres que je n'ai pas encore envisagé.
+CIRFA RENNES
 
 ---
 
 ## Études et formations possibles
 
-### 1. Conducteur de train 
+### 1. Conducteur de train :
+
+- Après Bac+2 ou tentative après le bac : candidature à la SNCF (car à 18 ans il y a forte chance qui ne recutent pas) Le CV est enrichie avec un mooc concue par la SNCF pour découvrir le monde de la conduite.
+- Formation interne rémunérée (9 à 12 mois) : conduite, sécurité ferroviaire, connaissance du matériel roulant.
+- 
+### 2. Etudes :
 - Objectif : réaliser au moins 2 ans d’études après le Bac
 - Formations envisageables :
   - BTS SIO
-- Après Bac+2 ou tentative après le bac : candidature à la SNCF (car à 18 ans il y a forte chance qui ne recutent pas) Le CV est enrichie avec un mooc concue par la SNCF pour découvrir le monde de la conduite.
-- Formation interne rémunérée (9 à 12 mois) : conduite, sécurité ferroviaire, connaissance du matériel roulant.
+    ou
+  - CIRFA RENNES
 
 ---
 
