@@ -11,24 +11,25 @@
 
 ## Projets professionnels envisagés
 - Conducteur de train dans le privée ou à la SNCF
-    ou 
-CIRFA RENNES
-
+- /
 ---
 
 ## Études et formations possibles
 
-### 1. Conducteur de train :
+### 1. SNCF :
 
-- Après Bac+2 ou tentative après le bac : candidature à la SNCF (car à 18 ans il y a forte chance qui ne recutent pas) Le CV est enrichie avec un mooc concue par la SNCF pour découvrir le monde de la conduite.
-- Formation interne rémunérée (9 à 12 mois) : conduite, sécurité ferroviaire, connaissance du matériel roulant.
-- 
+- Après le bac : candidature à la SNCF, le CV est enrichie avec un mooc concue par la SNCF pour découvrir le monde de la conduite.
+  Formation interne rémunérée (9 à 12 mois) : conduite, sécurité ferroviaire, connaissance du matériel roulant.
+- Peut-être la gendarmerie
+  
 ### 2. Etudes :
 - Objectif : réaliser au moins 2 ans d’études après le Bac
 - Formations envisageables :
-  - BTS SIO
-    ou
+  - BTS SIO Lycée Alain René Lesage (Vannes - 56)
+    Production - Cybersécurité, Informatique et réseaux, ELectronique - Option A : Informatique et réseaux
+  
   - CIRFA RENNES
+  - 
 
 ---
 
@@ -46,11 +47,12 @@ CIRFA RENNES
 - MOOC SNCF : [sncf-mooc.fr](https://sncf-mooc.fr/)
 - Onisep : [onisep.fr](https://www.onisep.fr/)
 - L'Etudiant [letudiant.fr](https://www.letudiant.fr/etudes/bts.html)
+- Parcoursup [parcoursup.fr](https://dossier.parcoursup.fr/Candidat/carte)
 ---
 
 ## Synthèse
 J'envisage 2 voies professionnelles :
-- Conducteur de train (après un Bac+2 technique puis la formation SNCF) Il existe le mooc qui permet de mieux apprendre les spécificités du métier que j'ai fait et qui est un + pour le recrutement.
+- Conducteur de train avec la formation interne Il existe le mooc qui permet de mieux apprendre les spécificités du métier que j'ai fait et qui est un + pour le recrutement.
 - Autres que je vais trouver durant l'année
 
-Le choix définitif sera à affiné en Terminale et après l’obtention du Bac notamment grâce à + de recherche ou/et grâce à Azimut.
+Le choix définitif sera à affiné pendant la Terminale et après l’obtention du Bac notamment grâce à + de recherche ou/et grâce à Azimut.
