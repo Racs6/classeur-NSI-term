@@ -11,7 +11,7 @@
 
 ## Projets professionnels envisagés
 - Conducteur de train dans le privée ou à la SNCF
-- /
+- Peut-être la gendarmerie
 ---
 
 ## Études et formations possibles
@@ -20,7 +20,6 @@
 
 - Après le bac : candidature à la SNCF, le CV est enrichie avec un mooc concue par la SNCF pour découvrir le monde de la conduite.
   Formation interne rémunérée (9 à 12 mois) : conduite, sécurité ferroviaire, connaissance du matériel roulant.
-- Peut-être la gendarmerie
   
 ### 2. Etudes :
 - Objectif : réaliser au moins 2 ans d’études après le Bac
